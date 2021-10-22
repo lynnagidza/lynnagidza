@@ -21,8 +21,8 @@ Currently:
 - 👽 Job hunting
 
 # 📊 Statistics
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=graywhite" />
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=lynnagidza&count_private=true&show_icons=true&theme=graywhite" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=gruvbox_light" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=lynnagidza&count_private=true&show_icons=true&theme=gruvbox_light" />
 
 
 
