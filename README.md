@@ -1,4 +1,4 @@
-### Hello World! 🌍
+# 🇰🇪 Karibu!
 
 <!--
 **lynnagidza/lynnagidza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,8 @@ Currently:
 - 👽 Learning Data Science with R
 - 👽 Working on my portfolio
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnagidza&count_private=true&show_icons=true&theme=graywhite&hide=contribs)
+# 📊 Statistics
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=graywhite" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lynnagidza&count_private=true&show_icons=true&theme=graywhite" />
 
 
