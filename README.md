@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 Currently:
 - 👽 Learning Data Science with R
-- 👽 Working on my portfolio
+- 👽 Working on **[My Portfolio](https://lynnagidza.github.io/portfolio/index.html)**
 
 # 📊 Statistics
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=graywhite" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lynnagidza&count_private=true&show_icons=true&theme=graywhite" />
+
+
 
 
