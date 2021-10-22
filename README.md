@@ -20,8 +20,8 @@ Currently:
 - 👽 Working on **[My Portfolio](https://lynnagidza.github.io/portfolio/index.html)**
 
 # 📊 Statistics
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=graywhite" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lynnagidza&count_private=true&show_icons=true&theme=graywhite" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=graywhite" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=lynnagidza&count_private=true&show_icons=true&theme=graywhite" />
 
 
 
