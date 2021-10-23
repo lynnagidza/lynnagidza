@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Currently:
 - 👽 Learning Data Science with R
-- 👽 Working on **[My Portfolio](https://lynnagidza.github.io/portfolio/index.html)**
+- 👽 Working on **[My Portfolio](https://lynnagidza.github.io/)**
 - 👽 Job hunting
 
 # Statistics 📊
