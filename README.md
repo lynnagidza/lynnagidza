@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Currently:
-- 👽 Learning Data Science with R
+- 👽 Learning **[Data Science with R](https://www.datacamp.com/profile/lynnagidza)**
 - 👽 Working on **[My Portfolio](https://lynnagidza.github.io/)**
 - 👽 Job hunting
 
