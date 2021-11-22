@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Currently:
 - 👽 Learning **[Data Science with R](https://www.datacamp.com/profile/lynnagidza)**
 - 👽 Working on **[My Portfolio](https://lynnagidza.github.io/)**
-- 👽 Job hunting
+- 👽 Reading 'Love in Colour' by Bolu Babalola 
 
 # Statistics 📊
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=gruvbox_light" />
