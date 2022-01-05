@@ -23,6 +23,10 @@ Currently:
 # Statistics 📊
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=gruvbox_light" />
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=lynnagidza&count_private=true&show_icons=true&theme=gruvbox_light" />
+<img src="https://raw.githubusercontent.com/lynnagidza/lynnagidza/master/profile-summary-card-output/default/1-repos-per-language.svg">
+<img src="https://raw.githubusercontent.com/lynnagidza/lynnagidza/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  
+# Performance Tracking 👩🏿‍💻
 
 
 
