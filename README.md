@@ -27,9 +27,9 @@ Currently:
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lynnagidza&theme=solarized_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lynnagidza&theme=solarized_dark"/> -->
   
-# Performance Tracking 👩🏿‍💻
+<!-- # Performance Tracking 👩🏿‍💻
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lynnagidza&theme=solarized_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lynnagidza&theme=solarized_dark"/> -->
 
 
 
