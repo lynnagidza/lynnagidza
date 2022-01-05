@@ -23,12 +23,12 @@ Currently:
 # Statistics 📊
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnagidza&layout=compact&theme=gruvbox_light" />
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=lynnagidza&count_private=true&show_icons=true&theme=gruvbox_light" />
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lynnagidza&theme=vue)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lynnagidza&theme=vue"/>
-<!-- <img src="https://raw.githubusercontent.com/lynnagidza/lynnagidza/master/profile-summary-card-output/default/1-repos-per-language.svg">
-<img src="https://raw.githubusercontent.com/lynnagidza/lynnagidza/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p> -->
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lynnagidza&theme=solarized_dark"/> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lynnagidza&theme=solarized_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lynnagidza&theme=solarized_dark"/>
   
 # Performance Tracking 👩🏿‍💻
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lynnagidza&theme=solarized_dark"/>
 
 
 
