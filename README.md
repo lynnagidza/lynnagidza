@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Currently:
-- 👽 Learning **[Data Science with R](https://www.datacamp.com/profile/lynnagidza)**
-- 👽 Working on **[My Portfolio](https://lynnagidza.github.io/)**
+<!-- - 👽 Learning **[Data Science with R](https://www.datacamp.com/profile/lynnagidza)** -->
+- 👽 Learning AL
+<!-- - 👽 Working on **[My Portfolio](https://lynnagidza.github.io/)** -->
+<!-- - 👽 Working on  -->
 - 👽 Reading 'Love in Colour' by Bolu Babalola 
 
 # Statistics 📊
