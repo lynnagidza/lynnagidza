@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Currently:
-- 🪴 Learning **[Data Science with R](https://www.datacamp.com/profile/lynnagidza)** 
+<!-- - 🪴 Learning **[Data Science with R](https://www.datacamp.com/profile/lynnagidza)**  -->
 - 🪴 Looking for help with AL (Business Central)
-- 🪴 Looking to collaborate on fun little projects
+<!-- - 🪴 Looking to collaborate on fun little projects -->
 - 🪴 Working on **[My Portfolio](https://lynnagidza.github.io/)**
 - 🪴 Reading 'Love in Colour' by Bolu Babalola 
 
