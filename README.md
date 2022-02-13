@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Currently:
 <!-- - 🪴 Learning **[Data Science with R](https://www.datacamp.com/profile/lynnagidza)**  -->
-- 🪴 Looking for help with AL (Business Central)
 <!-- - 🪴 Looking to collaborate on fun little projects -->
+Currently:
+- 🪴 Looking for help with AL (Business Central)
 - 🪴 Working on **[My Portfolio](https://lynnagidza.github.io/)**
 - 🪴 Reading 'Love in Colour' by Bolu Babalola 
 
