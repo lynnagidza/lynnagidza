@@ -1,9 +1,5 @@
 # Karibu!
-Currently:
-
-    🦩 Looking for help with AL (Business Central)
-    🦩 Working on My Portfolio
-    🦩 Reading 'The girl with the louding voice' by Abi Dare
+My name is Agidza and I code sometimes.
 
 # Statistics 📊 
 <p>Life this past week:</p>
