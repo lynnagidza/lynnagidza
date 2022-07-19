@@ -3,7 +3,8 @@ Hi, my name is Agidza and I write code sometimes.
 
 🪶 [Portfolio](https://lynnagidza.github.io/)
 
-<p>Statistics:</p>
+# Statistics:
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
