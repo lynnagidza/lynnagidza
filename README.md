@@ -16,3 +16,5 @@ Other                    0 secs              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+#### 💟 **Digital Swag**
+[![@agidza's Holopin board](https://holopin.me/agidza)](https://holopin.io/@agidza)
