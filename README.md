@@ -4,7 +4,7 @@ Hi, my name is Agidza and I write code sometimes.
 🫧 [Portfolio](https://lynnagidza.github.io/) | 🪷 [Notes](https://medium.com/me/stories/public)
 
 <!--START_SECTION:waka-->
-📊 **Stats This Week** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
