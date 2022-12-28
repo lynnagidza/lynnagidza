@@ -8,7 +8,7 @@ Hi, my name is Agidza and I write code sometimes.
 
 ```text
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
