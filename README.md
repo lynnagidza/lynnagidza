@@ -1,7 +1,7 @@
 # Karibu!
 Hi, my name is Agidza and I write code sometimes.
 
-🫧 [Portfolio](https://lynnagidza.github.io/) | 🪷 [Notes](https://medium.com/me/stories/public)
+🫧 [Portfolio](https://lynnagidza.github.io/) | [Notes](https://medium.com/me/stories/public)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
