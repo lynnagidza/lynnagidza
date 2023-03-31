@@ -9,9 +9,9 @@ Hi, my name is Agidza and I write code sometimes.
 ```text
 Monday                   831 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
 Tuesday                  952 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Wednesday                886 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Wednesday                886 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
 Thursday                 1049 commits        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Friday                   921 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Friday                   922 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
 Saturday                 45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 Sunday                   15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
