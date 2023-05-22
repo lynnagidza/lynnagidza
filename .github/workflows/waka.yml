@@ -40,4 +40,4 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "True"
-          SYMBOL_VERSION: 1
+          SYMBOL_VERSION: 3
