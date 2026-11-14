@@ -4,7 +4,7 @@ Hi, my name is Agidza and I write code sometimes.
 🫧 [Portfolio](https://lynnagidza.github.io/) | [Notes](https://agidza.medium.com/)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2056%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
